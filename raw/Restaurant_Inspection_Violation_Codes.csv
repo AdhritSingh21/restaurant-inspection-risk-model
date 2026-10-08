@@ -1,0 +1,214 @@
+﻿Violation_ID,Violation_Code,Violation_Demerits,Violation_Description,ObjectId
+1,1,6,Food not obtained from approved sources and/or improperly identified.,14788
+2,2,6,Food spoiled or adulterated.,14789
+3,3,6,"Employee(s) working with boils,infected wounds,respiratory,infections and/or other communicable diseases.,",14790
+4,4,4,"Inadequate hot and cold holding equipment,improperly designed,maintained and/or operated.,",14791
+5,5,10,"Hot potentially hazardous foods not rapidly cooled by approved methods.,,",14792
+7,7,2,"Potentially hazardous foods improperly thawed.,",14793
+8,8,3,"Potentially hazardous salads and/or fillings not made with prechilled ingredients.,",14794
+9,9,2,"Perishable foods kept at improper temperature.,",14795
+10,10,3,"Suitable thermometers (stem,cooler,oven) not provided and/or inadequately used.,",14796
+12,12,6,"Food workers improperly washing hands after using toilet,coughing,eating,smoking,after handling raw animal products and/or otherwise contaminating their hands.Inadequatefacilities.,",14797
+13,13,3,"Unsuitable hand washing facilities,unclean,inaccessible and/or not in good repair,with unapproved soap,towels and/or waste receptacles not provided.,",14798
+14,14,4,"Kitchenware and/or food contact surfaces of equipment improperly cleaned,sanitized and/or air dried.,,",14799
+15,15,6,"Sewage not disposed into public sewer or approved facility. Cross-connections or back siphonage present.,",14800
+16,16,6,"No hot and cold running water as required and/or water not from an approved source.,",14801
+17,17,2,"Fruits and vegetables improperly washed prior to serving.,",14802
+18,18,1,"Foods not stored off the floor.,",14803
+19,19,1,"Required labels not present on food or containers of food.Required signs not posted.,",14804
+20,20,1,"Health cards not current on all food handlers.,",14805
+21,21,1,"Unacceptable hygienic practices,unclean outer garments,improper hair restraints used.,",14806
+22,22,1,"In-use utensils improperly handled and/or stored.,",14807
+23,23,1,"Facilities for washing and sanitizing equipment and utensils unapproved,inadequate,improperly constructed,maintained and/or operated.,,",14808
+24,24,1,"Accurate thermometers,chemical tests kits,and/or pressure gauges not present and/or working.,",14809
+25,25,1,"Clean utensils,equipment and/or singe service items improperly handled,stored and/or dispensed.,",14810
+26,26,3,"Single service items reused.,",14811
+27,27,1,"Unclean wiping cloths,stored in an unapproved sanitizer,and/or unrestricted in use.,",14812
+28,28,1,"Unapproved food contact surfaces. Food contact surfaces notsmooth,easily cleanable,properly constructed and/or installed.,",14813
+29,29,1,"Plastic used for food contact surfaces is not of approved food grade quality.,",14814
+30,30,1,"Non-food contact surfaces improperly constructed and/or installed.,",14815
+31,31,1,"Non-food contact surfaces and/or cooking devices not maintained and/or unclean.,",14816
+32,32,1,"Toilet facilities for employees inadequate,inconvenient,unclean and/or not in good repair.Covered trash cans not provided.Doors not self-closing.,",14817
+33,33,1,"Garbage storage and/or removal inadequate and/or unclean.Garbage containers not clean,pest proof,non-absorbent and covered.Wash area unclean and/or not maintained.,",14818
+34,34,3,"No effective measures to control pests.Pest control devices not maintained.,",14819
+35,35,1,"Improper lighting and/or ventilation,ventilation hoods and/or filters improperly cleaned and/or maintained.,,",14820
+36,36,1,"Plumbing and/or fixtures improperly sized,installed and/or maintained. Plumbing and/or fixtures improperly drained.,,",14821
+37,37,1,"Floors,walls,ceilings,improperly constructed and/or installed.Not in good repair and/or clean.,,",14822
+38,38,1,"Living quarters not completely separated from food service.Infant or child care allowed.Premises not maintained free of litter,unnecessary equipment and/or personal effects.,,",14823
+39,39,1,"Live animals not in compliance with current Regulations.,",14824
+40,40,1,"Non-compliant with Nevada Revised Statute 202.2483 regarding smoking.,",14825
+61,1-Jun,6,"Poultry,poultry stuffing,stuffed meats,stuffing containing meats,casseroles containing potentially hazardous foods and/or food to be reheated containing potentially hazardous food not cooked to an internal temperature of 165°F.,",14826
+62,2-Jun,6,"Ground,fabricated and/or restructured meats not cooked throughout to 155&deg,F.,",14827
+63,3-Jun,6,"Pork and/or any food containing pork,not cooked to an internal temperature of 155&deg,F or above.,",14828
+64,4-Jun,6,"Potentially hazardous foods not kept at 40&deg,F or colder or at 140&deg,F or hotter,except during necessary preparation procedures.,,",14829
+111,1-Nov,4,"Food unprotected from cross-contamination by raw meats,poultry,fish,seafood and/or raw eggs.,,",14830
+112,2-Nov,4,"Food unprotected from cross-contamination by food handlers.,",14831
+113,3-Nov,4,"Food unprotected from cross-contamination by chemicals.,",14832
+114,4-Nov,4,"Food unprotected by cross-contamination by proper storage.,",14833
+201,1,5,"Verifiable time as a control with approved procedure when in use. Operational plan,HACCP plan,waiver or variance approved and followed when required. Nevada Clean Indoor Air Act compliant.,",14834
+202,2,5,"Handwashing (as required,when required,proper glove use,no bare hand contact of ready to eat foods).Foodhandler health restrictions as required.,,",14835
+203,3,5,"Commercially manufactured food from approved source with required labels. Parasite destruction as required. Potentially hazardous foods/time temperature control for safety (PHF/TCS) received at proper temperature.,",14836
+204,4,5,"Hot and cold running water from approved source as required.,",14837
+205,5,5,"Imminently dangerous cross connection or backflow.Waste water and sewage disposed into public sewer or approved facility.,",14838
+206,6,5,"Food wholesome,not spoiled,contaminated,or adulterated.,,",14839
+207,7,5,"PHF/TCSs cooked and reheated to proper temperatures.,",14840
+208,8,5,"PHF/TCSs properly cooled.,",14841
+209,9,5,"PHF/TCSs at proper temperatures during storage,display,service,transport,and holding. ,",14842
+210,10,5,"Operating within the parameters of the health permit.,",14843
+211,11,3,"Food protected from potential contamination during storage and preparation.,",14844
+212,12,3,"Food protected from potential contamination by chemicals. Toxic items properly labeled,stored and used.,,",14845
+213,13,3,"Food protected from potential contamination by employees and consumers.,",14846
+214,14,3,"Kitchenware and food contact surfaces of equipment properly washed,rinsed,sanitized and air dried.Sanitizer solution provided and maintained as required.,",14847
+215,15,3,"Handwashing facilities adequate in number,stocked,accessible,and limited to handwashing only.,,",14848
+216,16,3,"Effective pest control measures. Animals restricted as required.,",14849
+217,17,3,"Hot and cold holding equipment present,properly designed,maintained and operated.,",14850
+218,18,3,"Accurate thermometers (stem & hot/cold holding) provided and used.,",14851
+219,19,3,"PHF/TCSs properly thawed.,",14852
+220,20,3,"Single use items not reused or misused.,",14853
+221,21,3,"Person in charge available and knowledgeable/management certification.,",14854
+222,22,3,"Backflow prevention devices and methods in place and maintained.,",14855
+223,23,3,"B or C"" grade card and required signs posted conspicuously. Consumer advisory as required. Records/logs maintained and available when required.,""",14856
+224,24,1,"Acceptable personal hygiene practices,clean outer garments,proper hair restraints used. Living quarters and child care completely separated from food service.,",14857
+225,25,1,"Food and food storage containers properly labeled and dated as required. Food stored off the floor when required. Non-PHF/TCS not spoiled and within shelf-life. Proper retail storage of chemicals.,",14858
+226,26,1,"Facilities for washing and sanitizing kitchenware approved,adequate,properly constructed,maintained and operated. ,,",14859
+227,27,1,"Appropriate sanitizer test kits provided and used. Ware washing thermometer(s) as required. Wiping cloths & linens stored and used properly.,",14860
+228,28,1,"Food contact surfaces and equipment approved,food grade material,smooth,easily cleanable,properly constructed and installed.,",14861
+229,29,1,"Utensils,equipment,and single serve items properly handled,stored,and dispensed.,",14862
+230,30,1,"Nonfood contact surfaces and equipment properly constructed,installed,maintained and clean.,",14863
+231,31,1,"Health cards as required. Foodhandler not aware of employee health policy. A"" grade card posted conspicuously. ,""",14864
+232,32,1,"Restrooms,mop sink,and custodial areas maintained and clean.Premises maintained free of litter,unnecessary equipment,or personal effects. Trash areas adequate,pest proof,and clean.",14865
+233,33,1,"Facility in sound condition and maintained (floors,walls,ceilings,plumbing,lighting,ventilation,etc.).",14866
+234,34,1,"Fruits and vegetables washed prior to preparation or service.,",14867
+301,IHH-1,0,"Imminent Health Hazard - (Immediate Closure) - Interruption of electrical service,",14868
+302,IHH-2,0,"Imminent Health Hazard - (Immediate Closure) - No potable water or hot water,",14869
+303,IHH-3,0,"Imminent Health Hazard - (Immediate Closure) - Gross unsanitary occurrences or conditions including pest infestation,",14870
+304,IHH-4,0,"Imminent Health Hazard - (Immediate Closure) - Sewage or liquid waste not disposed of in an approved manner,",14871
+305,IHH-5,0,"Imminent Health Hazard - (Immediate Closure) - Lack of adequate refrigeration,",14872
+306,IHH-6,0,"Imminent Health Hazard - (Immediate Closure) - Lack of adequate employee toilets and handwashing facilities,",14873
+307,IHH-7,0,"Imminent Health Hazard - (Immediate Closure) - Misuse of poisonous or toxic materials,",14874
+308,IHH-8,0,"Imminent Health Hazard - (Immediate Closure) - Suspected foodborne illness outbreak,",14875
+309,IHH-9,0,"Imminent Health Hazard - (Immediate Closure) - Emergency such as fire and/or flood,",14876
+310,IHH-10,0,"Imminent Health Hazard - (Immediate Closure) - Other condition or circumstance that may endanger public health,",14877
+2907,2907,3,"Food and warewashing equipment approved,properly designed,constructed and installed.,",14878
+2908,2908,3,"PHF/TCSs properly thawed. Fruits and vegetables washed prior to preparation or service.,",14879
+2909,2909,3,"Grade/card signs posted. Consumer advisory. Records/logs. NCIAA. PHFs labeled/dated. Offsite label.,",14880
+2910,2910,0,"Non-PHF labeled/dated/not spoiled/within shelf-life. Food stored off-floor. Retail chemical storage.,",14881
+2911,2911,0,"Sanitizer kits available. Equip. & ware washing therm. as required. Wiping cloths and linen use.,",14882
+2912,2912,0,"Small wares and portable appliances approved,properly designed,in good repair.,",14883
+2925,2925,0,"Acceptable personal hygiene,clean garments,hair restraints. Living quarters & child care separate.,",14884
+2926,2926,0,"Ware washing facilities approved,adequate,properly constructed,maintained & operated.,,",14885
+2927,2927,0,"Utensils,equipment,and single serve items properly handled,stored,and dispensed.,",14886
+2928,2928,0,"Nonfood contact surfaces and equipment properly constructed,installed,maintained and clean.,",14887
+2929,2929,0,"RR's,mop sk,cust. areasclean/maint. No litter,unnec. equip,pers items. Trash area clean/maint.,",14888
+2930,2930,0,"Facility maintained (floors,walls,ceilings,plumbing,lighting,ventilation,etc.).",14889
+2931,2931,0,"Time as a control. Operational plan,waiver/variance followed. Permit parameters followed.,,",14890
+2932,2932,0,"Hand washing as required,no bare hand w/ RTE foods. Foodhandler health restrictions as required.,,",14891
+2933,2933,0,"Food from an approved source w/ proper labels. Parasite destruction. PHF's received @ proper temp.,",14892
+2934,2934,0,"Hot & cold running water from an approved source as required.,",14893
+2935,2935,0,"Imminently dangerous cross connection or backflow. Waste water and sewage properly disposed of.,",14894
+2936,2936,0,"Food wholesome,not spoiled,contaminated,or adulterated.,,",14895
+2937,2937,0,"PHF/TCSs cooked and reheated to proper temperature.,",14896
+2938,2938,0,"PHF/TCSs properly cooled.,",14897
+2939,2939,0,"PHF/TCSs maintained at proper temperature.,",14898
+2940,2940,0,"Food protected from potential contamination during storage and preparation.,",14899
+2941,2941,0,"Food protected from potential contamination by chemicals. Toxic items labeled,stored & used.,,",14900
+2942,2942,0,"Food protected from potential contamination by employees and consumers.,",14901
+2943,2943,0,"Kitchenware & FCS of equip. properly washed,rinsed,san. & air dried. San solution as required.,",14902
+2944,2944,0,"Handwashing facilities adequate in number,stocked,accessible,and limited to handwashing only.,,",14903
+2945,2945,0,"Effective pest control measures. Animals restricted as required.,",14904
+2946,2946,0,"Hot and cold holding equipment present,properly designed,maintained and operated.,",14905
+2947,2947,0,"Accurate thermometers (stem & hot/cold holding) provided and used.,",14906
+2948,2948,0,"Single use items not reused or misused.,",14907
+2949,2949,0,"Person in charge available and knowledgeable/management certification.,",14908
+2950,2950,0,"Backflow prevention devices and methods in place and maintained.,",14909
+2951,2951,0,"Food and warewashing equipment approved,properly designed,constructed and installed.,",14910
+2952,2952,0,"PHF/TCSs properly thawed. Fruits and vegetables washed prior to preparation of service.,",14911
+2953,2953,0,"Grade card/signs posted. Consumer advisory. Records/logs. NCIAA. PHFs labeled/dated. Offsite label.,",14912
+2954,2954,5,"Time as a control. Operational plan,waiver/variance followed. Permit parameters followed.,,",14913
+2955,2955,3,"Kitchenware & FCS of equip. properly washed,rinsed,san. & air dried. San solution as required.,",14914
+2956,2956,3,"Person in charge available and knowledgeable/management certification,",14915
+3046,3046,5,"Approved water source with required documentation.,",14916
+3047,3047,5,"Required E-Coli lab testing documented. (NAC 445A.555 a),",14917
+3048,3048,5,"Required Annual & 4-year series lab testing documented. (NAC 445A. 555 b&c),",14918
+3049,3049,3,"Container testing conducted every three months. (NAC 445A.563),",14919
+3050,3050,3,"Pre and Post Water testing conducted as required. ( NAC445A.557),",14920
+3064,3064,3,"Proper labeling of food for consumption off site and/or transportation.,",14921
+3065,3065,3,"Person in charge available and knowledgeable/management certification.Facility has an effective employee health policy.,",14922
+3066,3066,3,"Grade card and required signs posted conspicuously. Records/logs maintained and available when required. NCIAA compliant.,",14923
+3067,3067,0,"Appropriate sanitizer test kits provided and used. Ware washing thermometer(s) are required. Wiping cloths and linens stored and used properly. Permanently affixed thermometers.,",14924
+3068,3068,0,"Facility in sound condition and maintained (floors,walls,ceilings,plumbing,lighting,ventilation,etc.)",14925
+3069,3069,5,"Operational plan,HACCP plan,waiver or variance approved and followed when required. Operating within the parameters of the health permit.,",14926
+4177,4177,0,"Dumpsters lids open,",14927
+4178,4178,0,"Dumpsters located less than 50 ft from doors,",14928
+4179,4179,0,"Dumpster on soil or damaged pavement,",14929
+4180,4180,0,"Trash spillage around dumpsters,",14930
+4181,4181,0,"Outdoor trash cans with no lids,",14931
+4182,4182,0,"Weatherstripping and/or door sweeps in disrepair,",14932
+4183,4183,0,"Windows damaged and/or screens missing,",14933
+4184,4184,0,"Penetrations not sealed,",14934
+4185,4185,0,"Walls/roof line in disrepair,",14935
+4186,4186,0,"Ventilation intakes not screened,",14936
+4187,4187,0,"Water not adequately draining,",14937
+4188,4188,0,"Roof in disrepair,",14938
+4189,4189,0,"Gutters clogged,",14939
+4190,4190,0,"Other,",14940
+4191,4191,0,"Overgrown/Excessive vegetation,",14941
+4192,4192,0,"Trees/Vegetation in contact with building,",14942
+4193,4193,0,"Tree hazard observed,",14943
+4194,4194,0,"Overgrown/Excessive vegetation,",14944
+4195,4195,0,"Evidence of rodents,",14945
+4196,4196,0,"Evidence of nuisance birds,",14946
+4197,4197,0,"Other,",14947
+4198,4198,0,"General unsanitary conditions observed,",14948
+4199,4199,0,"General unsanitary conditions observed,",14949
+4200,4200,0,"General unsanitary conditions observed,",14950
+4201,4201,0,"General unsanitary conditions observed,",14951
+4202,4202,0,"Other,",14952
+4203,4203,0,"Evidence of rodents,",14953
+4204,4204,0,"Evidence of flies,",14954
+4205,4205,0,"Evidence of cockroaches,",14955
+4206,4206,0,"Other,",14956
+4207,4207,0,"Administrative procedures not followed as required,",14957
+4208,4208,0,"Sticky traps not serviced as needed,",14958
+4209,4209,0,"Light traps not serviced as needed,",14959
+4210,4210,0,"Bait stations not serviced as needed,",14960
+4771,4771,0,"Interruption of electrical service,",14961
+4772,4772,0,"No potable water or hot water,",14962
+4773,4773,0,"Gross unsanitary occurrences or conditions including pest infestation,",14963
+4774,4774,0,"Sewage or liquid waste not disposed of in an approved manner,",14964
+4775,4775,0,"Lack of adequate refrigeration,",14965
+4776,4776,0,"Lack of adequate employee toilets and handwashing facilities,",14966
+4777,4777,0,"Suspected foodborne illness outbreak,",14967
+4778,4778,0,"Other condition or circumstance that may endanger public health,",14968
+4779,4779,5,"Operating within the parameters of the health permit. Compliance with Time as a Public Health Control,waiver,specialized process,and Hazard Analysis Critical Control Point (HACCP) plan.,,",14969
+4780,4780,5,"Handwashing (as required,when required,proper glove use,no bare hand contact of ready to eat foods). Food handler health restrictions as required.,,",14970
+4781,4781,5,"Commercially manufactured food from approved source with required labels. Parasite destruction as required. Time temperature control for safety (TCS) food received at proper temperature.,",14971
+4782,4782,5,"Hot and cold running water from approved source as required.,",14972
+4783,4783,5,"No imminently dangerous cross connection,adequate backflow prevention. Wastewater and sewage properly disposed.,,",14973
+4784,4784,5,"Food wholesome,not spoiled,contaminated,or adulterated.,,",14974
+4785,4785,5,"TCS food cooked and reheated to proper temperatures.,",14975
+4786,4786,5,"TCS food properly cooled.,",14976
+4787,4787,5,"TCS food at proper temperatures.,",14977
+4788,4788,3,"Equipment approved,properly designed,maintained,and operated.,,",14978
+4789,4789,3,"Food protected from potential cross-contamination.,",14979
+4790,4790,3,"Chemicals properly identified,stored,and used.,",14980
+4791,4791,3,"Food protected from potential contamination by employees and consumers.,",14981
+4792,4792,3,"Food contact surfaces of equipment properly cleaned and sanitized. Sanitizer solution provided and maintained as required.,",14982
+4793,4793,3,"Adequate handwashing sinks stocked and accessible.,",14983
+4794,4794,3,"Effective pest control measures. Animals restricted as required.,",14984
+4795,4795,3,"Grade card posted conspicuously. Consumer advisory as required.,",14985
+4796,4796,3,"Thermometers provided and accurate.,",14986
+4797,4797,3,"TCS food thawed and cooled using proper methods. Fruits and vegetables washed prior to preparation or service.,",14987
+4798,4798,3,"Single-use/single-service items properly used.,",14988
+4799,4799,3,"Person in charge present,demonstrates knowledge,and performs duties. Effective employee health policy. Mandated certification and food handler card as required.,",14989
+4800,4800,3,"Proper backflow prevention devices in place and maintained.,",14990
+4801,4801,3,"TCS food labeled and dated as required. Food sold for offsite consumption labeled properly. Records,logs,policies,and procedures maintained and available when required.,,",14991
+4802,4802,0,"Personal cleanliness maintained. Personal effects properly stored.,",14992
+4803,4803,0,"Non-TCS food labeled and within shelf-life. Food stored off the floor. Proper retail storage of chemicals.,",14993
+4804,4804,0,"Ware washing facilities maintained. Wiping cloths properly stored,test strips available.,,",14994
+4805,4805,0,"Signs and certifications as required.,",14995
+4806,4806,0,"Small wares approved,properly designed,in good repair.,",14996
+4807,4807,0,"Utensils,equipment,linens,single-service/single-use items properly handled,stored,and dispensed.,",14997
+4808,4808,0,"Nonfood contact surfaces and equipment properly constructed,installed,maintained,and clean.,,",14998
+4809,4809,0,"Restrooms custodial areas,and premises maintained.,",14999
+4810,4810,0,"Physical facility in sound condition and maintained.,",15000

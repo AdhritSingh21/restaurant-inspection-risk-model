@@ -1,0 +1,49 @@
+Acronym,Meaning,Category
+2-DR,Two-door (reach-in unit),Equipment
+3-COMP,Three-compartment sink,Equipment
+BACK DOCK,Rear loading/receiving dock,Facility
+CFPM,Certified food protection manager,Personnel
+CHLOR,Chlorine sanitizer,Chemical
+COS,Corrected on site,Disposition
+CRIT,Critical violation,Scoring
+DATE MK,Date marking,Food safety
+DEM,Demerits,Scoring
+DRY STG,Dry storage,Facility
+EMP,Employee,Personnel
+F/U,Follow-up required,Disposition
+FLR,Floor,Facility
+FPM,Food protection manager,Personnel
+GASKETS,Door gaskets/seals,Equipment
+GREASE TRAP,Grease interceptor/trap,Equipment
+HACCP,Hazard Analysis Critical Control Point plan,Regulatory
+HH,Health card / handler (context dependent),Personnel
+HH CARD,Food handler health card,Personnel
+HOOD,Ventilation hood,Equipment
+HW STN,Handwash station,Equipment
+HWS,Handwash sink / station,Equipment
+MOP SINK,Mop/utility sink,Equipment
+NCA / NCIAA,Nevada Clean Indoor Air Act,Regulatory
+NOV,Notice of violation,Disposition
+PHF,Potentially hazardous food,Food safety
+PIC,Person in charge,Personnel
+PPM,Parts per million (sanitizer concentration),Chemical
+PPR TWLS,Paper towels,Supplies
+PREP,Preparation area / prep table,Facility
+QUAT,Quaternary ammonium sanitizer,Chemical
+REINSP,Re-inspection,Disposition
+RIC,Reach-in cooler,Equipment
+RIF,Reach-in freezer,Equipment
+RTE,Ready-to-eat (food),Food safety
+RTN,Routine (inspection),Disposition
+SANI,Sanitizer / sanitizing solution,Chemical
+SIGNED OFF,Report signed by PIC,Disposition
+STEM,Stem/probe thermometer,Equipment
+TCS,Time/temperature control for safety (food),Food safety
+THERMO,Thermometer,Equipment
+TOT DEM,Total demerits,Scoring
+TPHC,Time as a public health control,Food safety
+VERBAL WARN,Verbal warning issued,Disposition
+VIOL,Violation,Scoring
+WI,Walk-in (cooler/freezer),Equipment
+WIC,Walk-in cooler,Equipment
+WIF,Walk-in freezer,Equipment
