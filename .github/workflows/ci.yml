@@ -1,0 +1,45 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  pipeline:
+    name: Pipeline — run notebooks 01-04, cleaning test, results check
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run the notebooks in order (each ends in readiness checks)
+        run: |
+          for nb in 01_data_cleaning 02_eda 03_features 04_modeling; do
+            echo "::group::$nb"
+            jupyter nbconvert --to notebook --execute --ExecutePreprocessor.timeout=-1 \
+              --output-dir "$RUNNER_TEMP/executed" "$nb.ipynb"
+            echo "::endgroup::"
+          done
+      - name: Row-independence test for the cleaning step
+        run: python tests/test_row_independence.py
+      - name: Holdout results match the README
+        run: |
+          python - <<'EOF'
+          import json
+          info = json.load(open("models/final_model_info.json"))
+          expected = {"roc_auc": 0.7289, "average_precision": 0.4530, "capture_top20": 0.4138}
+          assert info["final_model"] == "Gradient boosting (tuned)", info["final_model"]
+          assert len(info["features"]) == 11, info["features"]
+          for metric, value in expected.items():
+              got = info["holdout"][metric]
+              print(f"{metric}: {got:.4f} (README {value:.4f})")
+              assert abs(got - value) <= 0.005, f"{metric} drifted from the README"
+          print("holdout results reproduced")
+          EOF
