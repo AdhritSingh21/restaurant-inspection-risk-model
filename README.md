@@ -1,5 +1,8 @@
 # Predicting which restaurants will fail their next inspection
 
+[![CI](https://github.com/AdhritSingh21/restaurant-inspection-risk-model/actions/workflows/ci.yml/badge.svg)](https://github.com/AdhritSingh21/restaurant-inspection-risk-model/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 An end-to-end machine-learning project on Las Vegas restaurant inspection data. It cleans a deliberately messy dataset, explores it, engineers features (including from inspectors' free-text comments), and builds a model that predicts whether a restaurant's **next** inspection will be graded **C or below**.
 
 **Read the results:** [10-slide summary (PDF)](presentation.pdf) · [Full report (HTML)](report.html). The report is a self-contained file: download it and open it in any browser.
@@ -71,6 +74,8 @@ jupyter nbconvert --to notebook --execute --inplace 01_data_cleaning.ipynb
 
 Then run the same command for the other three notebooks, in order. The cleaning test is described in [`tests/README.md`](tests/README.md).
 
+On every push, CI reruns all four notebooks from the raw data on a clean Linux machine, runs the cleaning test, and checks that the holdout ROC-AUC, Average Precision and top-20% capture still match the table above (see the badge at the top).
+
 ## Repository layout
 
 ```
@@ -80,8 +85,14 @@ Then run the same command for the other three notebooks, in order. The cleaning 
 ├── raw/                                          input data and lookups
 ├── figures/                                      charts saved by the notebooks
 ├── tests/                                        row-independence test for the cleaning step
+├── .github/workflows/ci.yml                      CI: rerun the pipeline and check the results
+├── LICENSE                                       MIT (covers the code)
 └── requirements.txt
 ```
+
+## License
+
+The code (notebooks and tests) is released under the [MIT License](LICENSE). The data in `raw/` is not covered by this license: it is a modified version of public City of Las Vegas inspection data, included so the analysis can be reproduced.
 
 ---
 
